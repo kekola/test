@@ -1,6 +1,6 @@
 # test
 
-kekola change to line 3 after the PR from kekola2
+resolved line 3
 
 Line 5
 
